@@ -1,3 +1,5 @@
+## 0.5 + 0.6 SPA Diagram
+'''mermaid
 sequenceDiagram
     participant browser
     participant server
